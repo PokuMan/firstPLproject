@@ -1,0 +1,4 @@
+name: first
+version: '${project.version}'
+main: me.pokumen.first.First
+api-version: '1.20'
